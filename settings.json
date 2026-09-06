@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SenpaiSoull",
+    "username": "Harshit_KK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "fireblazeytt.aternos.me",
     "port": 75375,
     "version": "1.21.1"
   },
