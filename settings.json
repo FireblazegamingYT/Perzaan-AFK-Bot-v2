@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ZbirdGaming",
+    "username": "CozyAdmins132",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "fireblazeytt.aternos.me",
+    "ip": "play.fireblaze.bond",
     "port": 59230,
     "version": "1.21.1"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "perzuu"
     },
     "anti-afk": {
       "enabled": true,
